@@ -1,0 +1,120 @@
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\EmployeeCRUDApp.csproj.AssemblyReference.cache
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\EmployeeCRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\EmployeeCRUDApp.AssemblyInfoInputs.cache
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\EmployeeCRUDApp.AssemblyInfo.cs
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\EmployeeCRUDApp.csproj.CoreCompileInputs.cache
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\EmployeeCRUDApp.exe
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\EmployeeCRUDApp.deps.json
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\EmployeeCRUDApp.runtimeconfig.json
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\EmployeeCRUDApp.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\EmployeeCRUDApp.pdb
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\Employee.B8B2988D.Up2Date
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\EmployeeCRUDApp.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\refint\EmployeeCRUDApp.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\EmployeeCRUDApp.pdb
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\EmployeeCRUDApp.genruntimeconfig.cache
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp\obj\Debug\net8.0\ref\EmployeeCRUDApp.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\EmployeeCRUDApp.csproj.AssemblyReference.cache
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\EmployeeCRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\EmployeeCRUDApp.AssemblyInfoInputs.cache
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\EmployeeCRUDApp.AssemblyInfo.cs
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\EmployeeCRUDApp.csproj.CoreCompileInputs.cache
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\EmployeeCRUDApp.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\refint\EmployeeCRUDApp.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\EmployeeCRUDApp.pdb
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\EmployeeCRUDApp.exe
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\EmployeeCRUDApp.deps.json
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\EmployeeCRUDApp.runtimeconfig.json
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\EmployeeCRUDApp.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\EmployeeCRUDApp.pdb
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\Employee.B8B2988D.Up2Date
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\EmployeeCRUDApp.genruntimeconfig.cache
+C:\jerobert-sir\Learn_cShaarp_concepts\EmployeeCRUDApp - Copy\obj\Debug\net8.0\ref\EmployeeCRUDApp.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\EmployeeCRUDApp.exe
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\EmployeeCRUDApp.deps.json
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\EmployeeCRUDApp.runtimeconfig.json
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\EmployeeCRUDApp.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\EmployeeCRUDApp.pdb
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\EmployeeCRUDApp.csproj.AssemblyReference.cache
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\EmployeeCRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\EmployeeCRUDApp.AssemblyInfoInputs.cache
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\EmployeeCRUDApp.AssemblyInfo.cs
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\EmployeeCRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\Employee.B8B2988D.Up2Date
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\EmployeeCRUDApp.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\refint\EmployeeCRUDApp.dll
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\EmployeeCRUDApp.pdb
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\EmployeeCRUDApp.genruntimeconfig.cache
+C:\Users\Computer Corner\Desktop\C#-EmployeeCRUDApp -Basic\obj\Debug\net8.0\ref\EmployeeCRUDApp.dll
